@@ -4,9 +4,11 @@
     "now-dev": "next -p $PORT"
   },
   "dependencies": {
+    "buffer": "^5.2.1",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "u2f-api": "^1.0.10"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
