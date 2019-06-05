@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "nextjs-static",
+  "name": "keevo-device-tester",
   "builds": [
   	{ "src": "package.json", "use": "@now/static-build" }
   ]
